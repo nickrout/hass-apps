@@ -29,6 +29,7 @@ setup(
     install_requires = [
         "appdaemon >= 3.0",
         "observable >= 1.0",
+        "requests >= 2.6",
         "voluptuous >= 0.11",
     ],
     zip_safe = False,
